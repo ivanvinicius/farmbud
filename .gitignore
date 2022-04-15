@@ -1,0 +1,13 @@
+api/.vscode
+api/node_modules
+api/dist
+api/yarn-error.log
+
+web/.vscode
+web/node_modules
+web/dist
+web/yarn-error.log
+
+mobile/.vscode
+mobile/node_modules
+mobile/yarn-error.log
