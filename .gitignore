@@ -7,8 +7,19 @@ api/!tmp/.gitkeep
 
 web/.vscode
 web/node_modules
+web/.pnp
+web/.pnp.js
+web/coverage
 web/dist
-web/yarn-error.log
+web/build
+web/.DS_Store
+web/.env.local
+web/.env.development.local
+web/.env.test.local
+web/.env.production.local
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*
 
 mobile/.vscode
 mobile/node_modules

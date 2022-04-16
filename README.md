@@ -90,9 +90,8 @@ Instalações necessárias:
 1. PostgreSQL
 2. Node.JS
 3. Yarn
-4. React Native CLI
+4. React Native CLI (SDK + Android Studio / Xcode)
 
-  
 ### Instalação
 
 #### API
@@ -103,6 +102,10 @@ Instalações necessárias:
 4. Inicie a API com o comando `$ yarn dev:server`.
 
 #### Web
+
+1. Baixe as dependências com o comando `$ yarn`.
+2. Inicie o projeto Web com o comando `$ yarn start`.
+
 #### Mobile
 
 
