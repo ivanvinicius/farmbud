@@ -2,6 +2,8 @@ api/.vscode
 api/node_modules
 api/dist
 api/yarn-error.log
+api/tmp/*
+api/!tmp/.gitkeep
 
 web/.vscode
 web/node_modules
