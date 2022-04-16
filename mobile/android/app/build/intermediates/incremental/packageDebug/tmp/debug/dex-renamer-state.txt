@@ -1,0 +1,4 @@
+#Sat Apr 16 10:54:47 BRT 2022
+base.0=/home/ivan/Downloads/farmbud/mobile/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

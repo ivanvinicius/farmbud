@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <img src="github/images/ignews-home.png" alt="Home">  
+  <img src="github/images/farmbud-mockup.png" alt="project mock up">  
 </div>
 
 ## Sobre o projeto
@@ -67,6 +67,7 @@ As principais tecnologias utilizadas na construção deste projeto foram:
 
 #### Mobile
 
+* [Android Studio](https://developer.android.com/)
 * [React Native](https://reactnative.dev/)
 * [Async Storage](https://github.com/react-native-async-storage/async-storage)
 * [Date Time Picker](https://github.com/react-native-datetimepicker/datetimepicker)
@@ -90,7 +91,8 @@ Instalações necessárias:
 1. PostgreSQL
 2. Node.JS
 3. Yarn
-4. React Native CLI (SDK + Android Studio / Xcode)
+4. Android Studio + SDK / Xcode
+5. React Native CLI
 
 ### Instalação
 
@@ -108,6 +110,18 @@ Instalações necessárias:
 
 #### Mobile
 
+* [Instalação do Android Studio](https://react-native.rocketseat.dev/)
+
+1. Baixe as dependências com o comando `$ yarn`.
+2. Abra o emulador Android / IOS.
+3. Inicie o React Native com o comando `$ yarn start`.
+4. Para instalar o projeto e executá-lo no dispositivo móvel, execute o comando
+`$ yarn run android/ios`.
+5. Configure a Api de mapas no aplicativo.
+
+* [Documentação de instalação React Native Maps](https://github.com/react-native-maps/react-native-maps/blob/master/docs/installation.md)
+
+* [ Console da Google para configuração de chaves Google Maps SDK for Android](https://console.developers.google.com/apis/library/maps-android-backend.googleapis.com/)
 
 <br/>
 <h4 align="center"><a href="#top">Voltar ao Início</a></h4>
